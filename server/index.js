@@ -16,7 +16,7 @@ app.use('/restaurants', function (req, res, next) {
 })
 
 app.get('/restaurants', (req, res) => {
-  res.sendFile(path.join(__dirname + './client/dist'))
+  res.sendFile(path.join(__dirname + './'))
 })
 
 
