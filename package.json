@@ -1,7 +1,7 @@
 {
   "name": "photos-proxy",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm install npm install nodemon npm install webpack npm install react --save npm install react-dev --save npm install styled-components --save-dev nodemon run ./server/index.js mongod --config /usr/local/etc/mongod.conf mongo",
   "main": ".eslintrc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,7 +20,7 @@
   "homepage": "https://github.com/krummurk/photos-proxy#readme",
   "devDependencies": {
     "babel-plugin-styled-components": "^1.10.0",
-    "styled-components": "^4.2.0",
+    "styled-components": "^4.2.1",
     "webpack-cli": "^3.3.2"
   },
   "dependencies": {

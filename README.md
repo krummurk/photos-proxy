@@ -1,8 +1,9 @@
 # photos-proxy
 
-npm install
+nvm install --save
 npm install nodemon
-npm install webpack
+npm install express
+npm install webpack -g --save
 npm install react --save
 npm install react-dev --save
 npm install styled-components --save-dev
